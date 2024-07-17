@@ -33,9 +33,4 @@
 ## Let's Connect
 
 - LinkedIn: [Rohit Kumar Singh](https://www.linkedin.com/in/rohitksingh0516)
-- Email: rohit.push5248@gmail.com
 
-<!---
-walterx5248/walterx5248 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
