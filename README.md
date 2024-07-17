@@ -23,8 +23,8 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## My GitHub Stats
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-singh16&show_icons=true&count_private=true&hide=contribs)
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walterx5248&show_icons=true&count_private=true&hide=contribs)
 
 
 ## Profile Views
