@@ -3,29 +3,11 @@
 Welcome to my GitHub profile! I'm a passionate and dedicated software developer with a strong interest in exploring new technologies and frameworks.
 
 ## About Me
-
 👨‍💻 **Software Developer**
-
-🌱 **Currently working with:**
-- Java
-- Spring Boot
-- Servlets/JSP
-- Stencil JS
-- React TypeScript
-- .NET Framework
-- Generative AI
-- Linux basics
-- TypeScript
-- JavaScript
-- XAMPP
-- MySQL Workbench
-- VS Code
-- IntelliJ
-
 🔭 **Always exploring new technologies and frameworks**
 
 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)**
-
+🌱 **Currently working with:**
 ## Technologies I Work With
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -46,15 +28,14 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 ## GitHub Stats
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-singh16&show_icons=true&theme=radical)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-singh16&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singh16&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singh16&layout=compact&theme=dark)
 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)
 - [GitHub](https://github.com/rohit-singh16)
-- [Email](mailto:rohit.push5248@gmail.com)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
