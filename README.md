@@ -44,10 +44,16 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+## GitHub Stats
+
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-singh16&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singh16&layout=compact&theme=radical)
+
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)
-- [GitHub](https://github.com/walterx5248)
+- [GitHub](https://github.com/rohit-singh16)
 - [Email](mailto:rohit.push5248@gmail.com)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
@@ -55,4 +61,3 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
