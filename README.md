@@ -1,31 +1,58 @@
-### Hi there, I'm Rohit Kumar Singh! 👋
+# Hi there, I'm Rohit Kumar Singh! 👋
 
-#### About Me
-- 👨‍💻 Software Developer
-- 🌱 Currently working with Java, Spring Boot, Servlets/JSP, Stencil JS, React TS, .NET Framework, Generative AI, Linux basics, TypeScript, JavaScript, XAMPP, MySQL Workbench, VS Code, IntelliJ.
-- 🔭 Always exploring new technologies and frameworks
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)
+Welcome to my GitHub profile! I'm a passionate and dedicated software developer with a strong interest in exploring new technologies and frameworks.
 
-#### Technologies I Work With
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Stencil JS](https://img.shields.io/badge/-Stencil%20JS-5849BE?style=flat-square&logo=stencil&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-000000?style=flat-square&logo=ai&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+## About Me
 
-#### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walterx5248&show_icons=true&theme=dark)
+👨‍💻 **Software Developer**
 
-#### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=walterx5248&color=brightgreen)
+🌱 **Currently working with:**
+- Java
+- Spring Boot
+- Servlets/JSP
+- Stencil JS
+- React TypeScript
+- .NET Framework
+- Generative AI
+- Linux basics
+- TypeScript
+- JavaScript
+- XAMPP
+- MySQL Workbench
+- VS Code
+- IntelliJ
 
-#### Let's Connect
-- LinkedIn: [Rohit Kumar Singh](https://www.linkedin.com/in/rohitksingh0516)
+🔭 **Always exploring new technologies and frameworks**
+
+📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)**
+
+## Technologies I Work With
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
+![Stencil JS](https://img.shields.io/badge/Stencil_JS-%23FF5000.svg?style=for-the-badge&logo=stencil&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-%23FF6F61.svg?style=for-the-badge&logo=ai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)
+- [GitHub](https://github.com/walterx5248)
+- [Email](mailto:rohit.push5248@gmail.com)
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
