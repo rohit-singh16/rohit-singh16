@@ -19,22 +19,23 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Servlets"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="JSP"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Servlets" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="JSP" width="48" height="48"/>
   <img src="https://stenciljs.com/assets/img/logos/stencil-logo.png" width="48" height="48" alt="Stencil JS"/>
-  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET Framework"/>
-  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="Generative AI"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ"/>
+  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET Framework" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="Generative AI" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" width="48" height="48"/>
 </p>
+
 
 ## GitHub Stats
 
