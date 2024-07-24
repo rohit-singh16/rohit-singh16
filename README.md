@@ -7,8 +7,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 🔭 **Always exploring new technologies and frameworks**
 
 ![Visitor Count](https://hits.sh/github.com/rohit-singh16/hits.svg?style=for-the-badge&label=Visitors&color=blueviolet)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=rohit-singh16.rohit-singh16)
-
 
 
 
