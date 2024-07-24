@@ -21,8 +21,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Servlets" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="JSP" width="48" height="48"/>
   <img src="https://stenciljs.com/assets/img/logos/stencil-logo.png" width="48" height="48" alt="Stencil JS"/>
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48" height="48"/>
@@ -35,6 +33,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" width="48" height="48"/>
 </p>
+
 
 
 ## GitHub Stats
