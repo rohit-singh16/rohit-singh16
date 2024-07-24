@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 👨‍💻 **Software Developer**
 🔭 **Always exploring new technologies and frameworks**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rohit-singh16.rohit-singh16)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Frohit-singh16.rohit-singh16%2Fvisits&style=for-the-badge&logo=github&labelColor=black)
 
 
 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)**
@@ -44,52 +44,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rohit-singh16&theme=react-dark)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Visitor Badge</title>
-  <style>
-    .visitor-badge {
-      display: inline-block;
-      padding: 8px 16px;
-      background-color: #4CAF50;
-      color: white;
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      border-radius: 4px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
 
-    .visitor-badge svg {
-      vertical-align: middle;
-      margin-right: 8px;
-    }
-
-    .visitor-count {
-      font-weight: bold;
-      margin-right: 4px;
-    }
-
-    .badge-link {
-      text-decoration: none;
-      color: white;
-    }
-  </style>
-</head>
-<body>
-  <a href="https://github.com/rohit-singh16" target="_blank" class="badge-link">
-    <div class="visitor-badge">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-        <path fill="none" d="M0 0h24v24H0z"/>
-        <path d="M12 3c-3.9 0-7 3.1-7 7s7 13 7 13 7-9.1 7-13-3.1-7-7-7zm0 10.2c-1.3 0-2.4-1.1-2.4-2.4s1.1-2.4 2.4-2.4 2.4 1.1 2.4 2.4-1.1 2.4-2.4 2.4z"/>
-      </svg>
-      <span class="visitor-count">1,234</span> Visitors
-    </div>
-  </a>
-</body>
-</html>
 
 
 
