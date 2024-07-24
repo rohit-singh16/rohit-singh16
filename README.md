@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 👨‍💻 **Software Developer**
 🔭 **Always exploring new technologies and frameworks**
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Visitors&query=value&url=https://api.countapi.xyz/hit/rohit-singh16.rohit-singh16)
+![Visitor Count](https://hits.sh/github.com/rohit-singh16/hits.svg?style=for-the-badge&label=Visitors&color=blueviolet)
+
 
 
 
