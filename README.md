@@ -6,9 +6,17 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 👨‍💻 **Software Developer**
 🔭 **Always exploring new technologies and frameworks**
 
+![Banner](https://your-link-to-banner-image.com/banner.png)
+
+
 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)**
 🌱 **Currently working with:**
 ## Technologies I Work With
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Java Developer Badge](https://img.shields.io/badge/Java_Developer-Oracle-orange?style=for-the-badge&logo=oracle)
+![AI Specialist](https://img.shields.io/badge/AI_Specialist-Deep_Learning-yellow?style=for-the-badge&logo=tensorflow)
+
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -31,6 +39,11 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-singh16&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singh16&layout=compact&theme=dark)
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rohit-singh16&theme=react-dark)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rohit-singh16.rohit-singh16)
+
 
 ## Let's Connect
 
