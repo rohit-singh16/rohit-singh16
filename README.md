@@ -18,21 +18,21 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ![AI Specialist](https://img.shields.io/badge/AI_Specialist-Deep_Learning-yellow?style=for-the-badge&logo=tensorflow)
 
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="48" height="48"/>
-  <img src="https://stenciljs.com/assets/img/logos/stencil-logo.png" width="48" height="48" alt="Stencil JS"/>
-  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET Framework" width="48" height="48"/>
-  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="Generative AI" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" width="48" height="48"/>
-</p>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
+![Stencil JS](https://img.shields.io/badge/Stencil_JS-%23FF5000.svg?style=for-the-badge&logo=stencil&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-%23FF6F61.svg?style=for-the-badge&logo=ai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 
