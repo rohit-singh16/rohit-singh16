@@ -47,14 +47,18 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)
-- [GitHub](https://github.com/rohit-singh16)
+[![LinkedIn](https://img.icons8.com/fluent/24/000000/linkedin.png)](https://www.linkedin.com/in/rohitksingh0516)
+[![GitHub](https://img.icons8.com/fluent/24/000000/github.png)](https://github.com/rohit-singh16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitksingh0516)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit-singh16)
+[![LinkedIn](https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/rohitksingh0516)
+[![GitHub](https://img.icons8.com/ios-glyphs/30/181717/github.png)](https://github.com/rohit-singh16)
 
-- ![GitHub](https://img.icons8.com/material-outlined/30/000000/github.png)
-- ![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)
-- 
-- [![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png)](https://www.linkedin.com/in/rohitksingh0516) [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)
-- [![GitHub](https://img.icons8.com/material-outlined/20/000000/github.png)](https://github.com/rohit-singh16) [GitHub](https://github.com/rohit-singh16)
+## Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitksingh0516)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohit-singh16)
+
 
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
