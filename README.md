@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 
 
-📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)**
+📫 **Reach me on [LinkedIn][![LinkedIn](https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/rohitksingh0516)**
 🌱 **Currently working with:**
 ## Technologies I Work With
 
@@ -44,15 +44,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singh16&layout=compact&theme=dark)
 
 
-
-## Let's Connect
-
-[![LinkedIn](https://img.icons8.com/fluent/24/000000/linkedin.png)](https://www.linkedin.com/in/rohitksingh0516)
-[![GitHub](https://img.icons8.com/fluent/24/000000/github.png)](https://github.com/rohit-singh16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitksingh0516)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit-singh16)
-[![LinkedIn](https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/rohitksingh0516)
-[![GitHub](https://img.icons8.com/ios-glyphs/30/181717/github.png)](https://github.com/rohit-singh16)
 
 ## Let's Connect
 
