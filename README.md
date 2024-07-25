@@ -43,17 +43,19 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singh16&layout=compact&theme=dark)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rohit-singh16&theme=react-dark)
-
-
-
-
 
 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)
 - [GitHub](https://github.com/rohit-singh16)
+
+- ![GitHub](https://img.icons8.com/material-outlined/30/000000/github.png)
+- ![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)
+- 
+- [![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png)](https://www.linkedin.com/in/rohitksingh0516) [LinkedIn](https://www.linkedin.com/in/rohitksingh0516)
+- [![GitHub](https://img.icons8.com/material-outlined/20/000000/github.png)](https://github.com/rohit-singh16) [GitHub](https://github.com/rohit-singh16)
+
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
