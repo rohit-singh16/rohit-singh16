@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 
 
 
-📫 **Reach me on [LinkedIn](https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/rohitksingh0516)**
+📫 **Reach me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitksingh0516)**
 🌱 **Currently working with:**
 ## Technologies I Work With
 
